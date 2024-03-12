@@ -1,0 +1,179 @@
+header{
+background-color: rgb(218, 204, 188);
+width: 1000%;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+ }
+ header ul{
+    font-size: 18px;
+    color: rgb(169, 87, 87);
+    font-family: 'Times New Roman', Times, serif;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+ }
+header ul li{
+    margin: 15px;
+}
+ img{ 
+    width: 150px;
+ }
+ h1{
+background-color: black;
+font-size: 34px;
+color: rgb(177, 153, 153);
+font-family: 'Times New Roman', Times, serif;
+display: flex;
+justify-content: center;
+margin: 0% 0% 0% 0%;
+  }
+#OBJETIVO{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+justify-content: center;
+}
+#OBJETIVO h2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+#OBJETIVO p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(108, 67, 146);
+    display: flex;
+    align-items: cenr;
+}
+.Carrusel{ 
+  width: 1500px;
+ }
+.Carrusel img{
+  border-radius: 2em;
+  width: 1000px;
+  height: 600px ;
+  margin: 0% 0% 0% 0%;
+  }
+  h2{
+    font-size: 24px;
+    color: rgb(95, 68, 121);
+    font-weight: 400;
+   }
+ .ATG{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+  .aries{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.tauro{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.geminis{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+ .CLV{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+  }
+ .cancer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+ }
+  .leo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .virgo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .LES{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+   }
+   .libra{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   }
+   .Escorpio{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   }
+   .sagitario{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   }
+  .CAP{ 
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+  }
+  .capricornio{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .acuario{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .Piscis{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+ ul{
+    font-size: 18px;
+    color: rgb(88, 60, 114);
+ }
+  .pie{
+    background-color: bisque;
+   }
+  p{
+    font-size: 12px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    border-radius: 50%;
+}
+p{
+    padding: 15px;
+}
+
+.pie{
+    display: flex;
+    justify-content: center;
+}
+p{
+  text-align: justify;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Madimi+One&family=Sofia&display=swap')
